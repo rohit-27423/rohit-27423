@@ -11,6 +11,7 @@
 🚀 **Build. Analyze. Automate. Innovate.**
 
 🌐 Socials:
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rohit-kumar-b561202b9) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rohitkr27423@gmail.com)
 
 💻 Tech Stack:
