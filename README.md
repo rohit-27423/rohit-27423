@@ -159,7 +159,7 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=9D4EDD&line=7b2cbf&point=c77dff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-27423&bg_color=0d1117&color=9D4EDD&line=7b2cbf&point=c77dff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
