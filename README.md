@@ -135,6 +135,41 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 | **Competitive Programming** | Achieved Pupil (1251) rating on Codeforces and successfully solved 200+ algorithms and data structures problems on LeetCode. |
 | **Hackathon Excellence** | Advanced to the highly selective 3rd round of Flipkart GRiD 8.0, competing against a nationwide pool of over 1.67 Lakh students. |
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-27423&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9D4EDD" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-27423&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=c77dff&currStreakNum=ffffff" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-27423&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff" width="50%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit-27423&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=9D4EDD&line=7b2cbf&point=c77dff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rohit-27423/rohit-27423/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
 </div>
 
 ---
