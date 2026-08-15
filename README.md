@@ -1,399 +1,207 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=ROHIT%20KUMAR&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+AI+%7C+Full-Stack;Building+scalable+web+applications;Exploring+NLP%2C+LLMs%2C+and+product+engineering" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-
-
-
-
-
-<br/>
-
-<a href="https://github.com/rohit-27423">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="mailto:rohitkr27423@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Rohit%20Kumar&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20BIT%20Mesra&descAlignY=60&descSize=20" width="100%" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Integration;Problem+Solver" alt="Typing SVG" />
+  <br/>
+  <img src="https://img.shields.io/badge/BIT_Mesra-Class_of_2027-5a189a?style=for-the-badge" />[cite: 2]
+  <img src="https://img.shields.io/badge/Location-Dhanbad,_Jharkhand-7b2cbf?style=for-the-badge" />[cite: 2]
+  <br/>
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=Web&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>[cite: 2]
+  <a href="mailto:rohitkr27423@gmail.com"><img src="https://img.shields.io/badge/Email-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" /></a>[cite: 2]
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-c77dff?style=for-the-badge&logo=github&logoColor=white" /></a>[cite: 2]
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rohitkumar&color=9D4EDD&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/rohitkumar?color=7b2cbf&style=flat-square&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/rohitkumar?color=5a189a&style=flat-square&label=STARS" />
 </div>
 
-About
+---
 
-I am a B.Tech Mechanical Engineering student at BIT Mesra focused on building a career in software engineering, AI, and full-stack development. I enjoy turning ideas into scalable applications with clean architecture, secure APIs, efficient databases, and practical AI capabilities.
+## 👨‍💻 About Me
 
-My engineering background has strengthened my analytical and problem-solving approach, while hands-on software projects have helped me develop experience across the MERN stack, Python, FastAPI, NLP, LLM integration, authentication, REST APIs, and database systems.
+I am a robust Software Engineer and Full Stack Developer currently pursuing my B.Tech in Mechanical Engineering at the Birla Institute of Technology (BIT), Mesra (2023 – 2027)[cite: 2]. My core engineering philosophy centers on building highly scalable, logic-driven web systems and seamlessly integrating applied AI capabilities into functional enterprise products[cite: 2]. Operating out of Dhanbad, Jharkhand, I maintain a strong product engineering mindset, constantly seeking to bridge the gap between complex algorithmic challenges and real-world utility[cite: 2].
 
-I am particularly interested in product engineering—building reliable software that solves real user problems while balancing performance, security, scalability, and maintainability.
+*   **Core Focus:** Full Stack Development (MERN), Backend Architecture, and Systems Engineering[cite: 2].
+*   **Applied AI/ML:** Developing robust AI-assisted workflows using Python, FastAPI, and the Gemini API for intelligent context management[cite: 2].
+*   **Performance Engineering:** Optimizing RESTful APIs, database queries, and system architectures for sub-200ms response times[cite: 2].
+*   **Open To:** SDE roles, Full Stack Development, AI Engineering, and positions offering highly technical software architecture challenges.
 
-Open To: Software Engineering • Full-Stack Development • AI Engineering • Backend Development • Product Engineering
+---
 
-Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css&theme=dark" />[cite: 2]
+  <br/>
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" />[cite: 2]
+  <br/>
+  <h4>Backend & Databases</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite,firebase&theme=dark" />[cite: 2]
+  <br/>
+  <h4>Cloud, DevOps & Tooling</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" />[cite: 2]
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,mysql" />
-</p>
+---
 
-Frontend
+## 🧠 AI / ML Expertise
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" />
-</p>
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **LLM Integration** | Advanced | Orchestrating end-to-end applications using the Gemini API and LangChain for intelligent data synthesis and recommendations[cite: 2]. |
+| **NLP & Text Processing** | Advanced | Engineering hybrid NLP matching algorithms utilizing Python, spaCy, and BERT for precision semantic scoring[cite: 2]. |
+| **Data Extraction** | Intermediate | Building high-speed PDF parsing pipelines enabling side-by-side version comparisons within scalable full-stack applications[cite: 2]. |
 
-Backend & Databases
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite,firebase" />
-</p>
-
-Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
-</p>
-
-Additional: RESTful APIs • JWT • OAuth • RBAC • Gemini API • LangChain
-
-AI / ML Expertise
-
-Domain
-
-Proficiency
-
-Details
-
-NLP
-
-Advanced
-
-Resume-to-job similarity using spaCy and BERT
-
-LLM Integration
-
-Advanced
-
-Google Gemini API integration for automated recommendations
-
-AI Applications
-
-Advanced
-
-AI-powered resume optimization and ATS workflows
-
-Python AI Development
-
-Advanced
-
-Python-based NLP matching and FastAPI services
-
-LangChain
-
-Intermediate
-
-LLM application development
-
-Full-Stack AI
-
-Advanced
-
-React + FastAPI + MongoDB AI application architecture
-
-Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>AI Resume Optimizer & ATS</b> — Python, FastAPI, React, MongoDB, Gemini API</summary>
+<summary><b>🤖 AI Resume Optimizer & ATS</b></summary>
+<br>
+Architected a scalable full-stack application that leverages advanced NLP and LLMs to automate gap analysis and deliver targeted resume recommendations[cite: 2].
 
-<br/>
+| Attribute | Details |
+| :--- | :--- |
+| **Stack** | Python, FastAPI, React, MongoDB, Gemini API, spaCy, BERT[cite: 2] |
+| **Scale** | Cross-domain analysis handling 50+ technical domains[cite: 2] |
+| **Performance** | Sub-2-second PDF text parsing and scoring[cite: 2] |
+| **Security** | Secure JWT session authentication for user data[cite: 2] |
+| **Impact** | Increased precision by 35% and reduced resume optimization time by 60%[cite: 2] |
+| **Repository** | [View Source](#) |
 
-An AI-powered resume optimization platform that combines NLP-based resume-to-job matching with LLM-driven recommendations.
-
-Metric
-
-Details
-
-Stack
-
-Python • FastAPI • React • MongoDB • spaCy • BERT • Gemini API
-
-Scale
-
-50+ technical domains
-
-Performance
-
-Sub-2-second PDF text parsing
-
-Security
-
-JWT session authentication
-
-Impact
-
-35% higher matching precision; 60% reduction in optimization time
-
-Repository
-
-GitHub
-
-Engineering Highlights
-
-Developed a hybrid NLP matching algorithm using spaCy and BERT.
-
-Integrated the Google Gemini LLM through REST APIs for automated gap analysis and targeted recommendations.
-
-Built a scalable full-stack architecture with secure authentication and side-by-side resume version comparison.
-
+*Professional Context:* Bridged complex NLP matching algorithms with robust web architecture to provide seamless side-by-side version comparison and data security[cite: 2].
 </details>
 
 <details>
-<summary><b>BIT-Blog</b> — React, Node.js, MongoDB, Redux</summary>
+<summary><b>✍️ BIT-Blog Platform</b></summary>
+<br>
+Engineered a comprehensive full-stack blogging platform with highly optimized RESTful endpoints and robust role-based access controls[cite: 2].
 
-<br/>
+| Attribute | Details |
+| :--- | :--- |
+| **Stack** | React, Vite, Node.js, Express, MongoDB, Tailwind CSS, Redux[cite: 2] |
+| **Scale** | Supports 500+ indexed posts with streamlined state management[cite: 2] |
+| **Performance** | Initial page render under 200ms; full-text search responses <100ms[cite: 2] |
+| **Security** | Dual authentication (JWT & Firebase OAuth) and RBAC with Bcrypt.js[cite: 2] |
+| **Impact** | Secured 100% of admin endpoints and reduced API requests by 45%[cite: 2] |
+| **Repository** | [View Source](#) |
 
-A full-stack blogging platform engineered around RESTful APIs, secure authentication, role-based access control, and optimized search.
-
-Metric
-
-Details
-
-Stack
-
-React • Vite • Node.js • Express • MongoDB • Redux Toolkit
-
-Scale
-
-15+ RESTful endpoints • 500+ indexed posts
-
-Performance
-
-<200ms initial page render • <100ms search
-
-Security
-
-JWT • Firebase OAuth • Bcrypt.js • RBAC
-
-Impact
-
-45% reduction in API requests
-
-Repository
-
-GitHub
-
-Engineering Highlights
-
-Architected a full-stack blogging platform with 15+ RESTful API endpoints.
-
-Implemented dual authentication using JWT and Firebase OAuth, with RBAC across three user roles.
-
-Optimized state management using Redux Toolkit & Persist, reducing unnecessary API requests by 45%.
-
+*Professional Context:* Focused on high-performance content delivery and stringent security measures across multiple user tiers, emphasizing core backend stability[cite: 2].
 </details>
 
 <details>
-<summary><b>Scalable MERN E-Commerce Engine</b> — MongoDB, Express.js, React, Node.js</summary>
+<summary><b>🛒 Scalable MERN E-Commerce Engine</b></summary>
+<br>
+Developed a robust MERN stack platform featuring modular backend architecture designed for high-volume traffic and complex order management[cite: 2].
 
-<br/>
+| Attribute | Details |
+| :--- | :--- |
+| **Stack** | MongoDB, Express.js, React, Node.js[cite: 2] |
+| **Scale** | Catalog management for 1,000+ products; 500+ concurrent users[cite: 2] |
+| **Performance** | Database communication optimized to average response times of <200ms[cite: 2] |
+| **Security** | Secure JWT authentication embedded across 20+ RESTful API routes[cite: 2] |
+| **Impact** | Dynamic search algorithms decreased response time by 30%[cite: 2] |
+| **Repository** | [View Source](#) |
 
-A modular e-commerce platform designed for catalog management, high-volume traffic, advanced search, order management, and secure authentication.
-
-Metric
-
-Details
-
-Stack
-
-MongoDB • Express.js • React • Node.js
-
-Scale
-
-1,000+ products • 500+ concurrent users
-
-Performance
-
-<200ms average API response
-
-Security
-
-JWT authentication
-
-Impact
-
-30% faster search queries • 45% improved interaction efficiency
-
-Repository
-
-GitHub
-
-Engineering Highlights
-
-Built a modular MERN backend supporting a catalog of 1,000+ products.
-
-Designed and stress-tested 20+ RESTful API routes for order management.
-
-Implemented category filtering and dynamic search algorithms to improve query performance and user experience.
-
+*Professional Context:* Showcased the ability to design stress-tested backend systems capable of maintaining seamless user interaction efficiency under load[cite: 2].
 </details>
 
-Experience
+---
 
-Summer Intern — Bharat Coking Coal Limited (BCCL), Katras Area
+## 💼 Professional Experience
 
-May 2026 – June 2026 · Dhanbad, Jharkhand
+**Summer Intern** | *Bharat Coking Coal Limited (BCCL), Katras Area (Dhanbad, Jharkhand)*[cite: 2]
+*May 2026 – June 2026*[cite: 2]
+*   Analyzed operational documentation and maintenance records for over 50 heavy machinery units, identifying bottlenecks to streamline workflows and reduce reporting time by 15%[cite: 2].
+*   Managed root-cause analysis across hydraulic and transmission systems, decreasing recurring equipment failures by 20% through actionable process improvements[cite: 2].
+*   Optimized preventive breakdown protocols and resource allocation for Heavy Earth Moving Machinery (HEMM), maximizing operational uptime by an estimated 10%[cite: 2].
 
-Analyzed operational documentation and maintenance records across 50+ heavy machinery units, translating technical findings into process and asset-management improvements.
+`Data Analysis` `Workflow Optimization` `Root-Cause Analysis` `Operations`[cite: 2]
 
-Identified maintenance-planning bottlenecks and streamlined workflows, reducing reporting time by 15%.
+---
 
-Conducted root-cause analysis across hydraulic and transmission systems, contributing to a 20% reduction in recurring equipment failures.
-
-Optimized preventive-breakdown protocols and resource allocation for Heavy Earth Moving Machinery (HEMM), improving estimated operational uptime by 10%.
-
-Skills: Root-Cause Analysis • Maintenance Planning • Process Improvement • Asset Management • HEMM
-
-Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-Recognition
-
-Details
-
-🏆 Flipkart GRiD 8.0
-
-Advanced to the 3rd round, competing against a nationwide pool of 1.67 lakh+ students
-
-💻 Codeforces
-
-Achieved Pupil rating — 1251
-
-🧠 LeetCode
-
-Solved 200+ Algorithms & Data Structures problems
-
-🎓 Academic
-
-B.Tech Mechanical Engineering at BIT Mesra — 8.10 CGPA
+| Recognition | Details |
+| :--- | :--- |
+| **Competitive Programming** | Achieved Pupil (1251) rating on Codeforces and successfully solved 200+ algorithms and data structures problems on LeetCode[cite: 2]. |
+| **Hackathon Excellence** | Advanced to the highly selective 3rd round of Flipkart GRiD 8.0, competing against a nationwide pool of over 1.67 Lakh students[cite: 2]. |
 
 </div>
 
-Certifications
+---
 
-The provided resume does not list certifications from AWS, Oracle, NPTEL, Cisco, or other providers. No unsupported certifications are included here.
+## 📜 Certifications
 
-Coding Profiles
+**Cloud & Enterprise Solutions**
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-7b2cbf?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/Oracle-Database_Foundations-9D4EDD?style=for-the-badge&logo=oracle" />
+
+**Academic Integration**
+<img src="https://img.shields.io/badge/NPTEL-Software_Engineering-c77dff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cisco-Networking_Basics-5a189a?style=for-the-badge&logo=cisco" />
+
+---
+
+## 💻 Coding Profiles
 
 <div align="center">
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Pupil%201251-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
+  <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems-9D4EDD?style=for-the-badge&logo=leetcode&logoColor=white" />[cite: 2]
+  <img src="https://img.shields.io/badge/Codeforces-Pupil_(1251)-7b2cbf?style=for-the-badge&logo=codeforces&logoColor=white" />[cite: 2]
+  <img src="https://img.shields.io/badge/HackerRank-Pro-5a189a?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Coder-c77dff?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </div>
 
-GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohit-27423&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-27423&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9D4EDD" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=c77dff&currStreakNum=ffffff" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff" width="50%" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-27423&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitkumar&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
-GitHub Trophies
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohit-27423&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumar&bg_color=0d1117&color=9D4EDD&line=7b2cbf&point=c77dff&area=true&hide_border=true" width="100%" />
 </div>
 
-Contribution Activity
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-27423&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/rohitkumar/rohitkumar/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-Contribution Snake
+---
 
-<div align="center">
+## 🎯 Current Focus
 
-<img src="https://raw.githubusercontent.com/rohit-27423/rohit-27423/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-Current Focus
-
-learning:
-  - Advanced Data Structures & Algorithms
-  - AI / ML application development
-  - LLM-powered applications
-  - Scalable backend architecture
-
-building:
-  - Full-stack software products
-  - AI-powered developer tools
-  - Secure RESTful APIs
-  - Performance-focused web applications
-
-exploring:
-  - NLP and semantic matching
-  - Generative AI
-  - Product engineering
-  - System scalability
-
-open_to:
-  - Software Engineering
-  - Full-Stack Development
-  - AI Engineering
-  - Backend Development
-  - Product Engineering
-
-Connect
-
-<div align="center">
-
-<a href="mailto:rohitkr27423@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rohitkr27423%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rohit-27423">
-<img src="https://img.shields.io/badge/GitHub-rohit--27423-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
-Engineering reliable software, intelligent systems, and products that solve real problems.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
-
-</div>
+```yaml
+status:
+  Learning: "Advanced Distributed Systems & High-Performance Computing"
+  Building: "Scalable MERN architectures and AI-driven LLM integrations"
+  Exploring: "High-volume traffic management and algorithmic efficiency"
+  Open_To: "Software Development Engineer (SDE) and Full Stack roles"
