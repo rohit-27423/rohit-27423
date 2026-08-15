@@ -13,9 +13,9 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-c77dff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rohitkumar&color=9D4EDD&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/rohitkumar?color=7b2cbf&style=flat-square&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/rohitkumar?color=5a189a&style=flat-square&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=rohit-27423&color=9D4EDD&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/rohit-27423?color=7b2cbf&style=flat-square&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/rohit-27423?color=5a189a&style=flat-square&label=STARS" />
 </div>
 
 ---
@@ -135,6 +135,8 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 | **Competitive Programming** | Achieved Pupil (1251) rating on Codeforces and successfully solved 200+ algorithms and data structures problems on LeetCode. |
 | **Hackathon Excellence** | Advanced to the highly selective 3rd round of Flipkart GRiD 8.0, competing against a nationwide pool of over 1.67 Lakh students. |
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -168,8 +170,6 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rohit-27423/rohit-27423/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
 </div>
 
 ---
