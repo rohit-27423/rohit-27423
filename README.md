@@ -3,14 +3,14 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Integration;Problem+Solver" alt="Typing SVG" />
   <br/>
-  <img src="https://img.shields.io/badge/BIT_Mesra-Class_of_2027-5a189a?style=for-the-badge" />[cite: 2]
-  <img src="https://img.shields.io/badge/Location-Dhanbad,_Jharkhand-7b2cbf?style=for-the-badge" />[cite: 2]
+  <img src="https://img.shields.io/badge/BIT_Mesra-Class_of_2027-5a189a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Dhanbad,_Jharkhand-7b2cbf?style=for-the-badge" />
   <br/>
   <br/>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=Web&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>[cite: 2]
-  <a href="mailto:rohitkr27423@gmail.com"><img src="https://img.shields.io/badge/Email-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" /></a>[cite: 2]
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-c77dff?style=for-the-badge&logo=github&logoColor=white" /></a>[cite: 2]
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohitkr27423@gmail.com"><img src="https://img.shields.io/badge/Email-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-c77dff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=rohitkumar&color=9D4EDD&style=flat-square&label=PROFILE+VIEWS" />
@@ -22,11 +22,11 @@
 
 ## 👨‍💻 About Me
 
-I am a robust Software Engineer and Full Stack Developer currently pursuing my B.Tech in Mechanical Engineering at the Birla Institute of Technology (BIT), Mesra (2023 – 2027)[cite: 2]. My core engineering philosophy centers on building highly scalable, logic-driven web systems and seamlessly integrating applied AI capabilities into functional enterprise products[cite: 2]. Operating out of Dhanbad, Jharkhand, I maintain a strong product engineering mindset, constantly seeking to bridge the gap between complex algorithmic challenges and real-world utility[cite: 2].
+I am a robust Software Engineer and Full Stack Developer currently pursuing my B.Tech in Mechanical Engineering at the Birla Institute of Technology (BIT), Mesra (2023 – 2027). My core engineering philosophy centers on building highly scalable, logic-driven web systems and seamlessly integrating applied AI capabilities into functional enterprise products. Operating out of Dhanbad, Jharkhand, I maintain a strong product engineering mindset, constantly seeking to bridge the gap between complex algorithmic challenges and real-world utility.
 
-*   **Core Focus:** Full Stack Development (MERN), Backend Architecture, and Systems Engineering[cite: 2].
-*   **Applied AI/ML:** Developing robust AI-assisted workflows using Python, FastAPI, and the Gemini API for intelligent context management[cite: 2].
-*   **Performance Engineering:** Optimizing RESTful APIs, database queries, and system architectures for sub-200ms response times[cite: 2].
+*   **Core Focus:** Full Stack Development (MERN), Backend Architecture, and Systems Engineering.
+*   **Applied AI/ML:** Developing robust AI-assisted workflows using Python, FastAPI, and the Gemini API for intelligent context management.
+*   **Performance Engineering:** Optimizing RESTful APIs, database queries, and system architectures for sub-200ms response times.
 *   **Open To:** SDE roles, Full Stack Development, AI Engineering, and positions offering highly technical software architecture challenges.
 
 ---
@@ -35,16 +35,16 @@ I am a robust Software Engineer and Full Stack Developer currently pursuing my B
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css&theme=dark" />[cite: 2]
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css&theme=dark" />
   <br/>
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" />[cite: 2]
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" />
   <br/>
   <h4>Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite,firebase&theme=dark" />[cite: 2]
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite,firebase&theme=dark" />
   <br/>
   <h4>Cloud, DevOps & Tooling</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" />[cite: 2]
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" />
 </div>
 
 ---
@@ -53,9 +53,9 @@ I am a robust Software Engineer and Full Stack Developer currently pursuing my B
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **LLM Integration** | Advanced | Orchestrating end-to-end applications using the Gemini API and LangChain for intelligent data synthesis and recommendations[cite: 2]. |
-| **NLP & Text Processing** | Advanced | Engineering hybrid NLP matching algorithms utilizing Python, spaCy, and BERT for precision semantic scoring[cite: 2]. |
-| **Data Extraction** | Intermediate | Building high-speed PDF parsing pipelines enabling side-by-side version comparisons within scalable full-stack applications[cite: 2]. |
+| **LLM Integration** | Advanced | Orchestrating end-to-end applications using the Gemini API and LangChain for intelligent data synthesis and recommendations. |
+| **NLP & Text Processing** | Advanced | Engineering hybrid NLP matching algorithms utilizing Python, spaCy, and BERT for precision semantic scoring. |
+| **Data Extraction** | Intermediate | Building high-speed PDF parsing pipelines enabling side-by-side version comparisons within scalable full-stack applications. |
 
 ---
 
@@ -64,65 +64,65 @@ I am a robust Software Engineer and Full Stack Developer currently pursuing my B
 <details>
 <summary><b>🤖 AI Resume Optimizer & ATS</b></summary>
 <br>
-Architected a scalable full-stack application that leverages advanced NLP and LLMs to automate gap analysis and deliver targeted resume recommendations[cite: 2].
+Architected a scalable full-stack application that leverages advanced NLP and LLMs to automate gap analysis and deliver targeted resume recommendations.
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | Python, FastAPI, React, MongoDB, Gemini API, spaCy, BERT[cite: 2] |
-| **Scale** | Cross-domain analysis handling 50+ technical domains[cite: 2] |
-| **Performance** | Sub-2-second PDF text parsing and scoring[cite: 2] |
-| **Security** | Secure JWT session authentication for user data[cite: 2] |
-| **Impact** | Increased precision by 35% and reduced resume optimization time by 60%[cite: 2] |
+| **Stack** | Python, FastAPI, React, MongoDB, Gemini API, spaCy, BERT |
+| **Scale** | Cross-domain analysis handling 50+ technical domains |
+| **Performance** | Sub-2-second PDF text parsing and scoring |
+| **Security** | Secure JWT session authentication for user data |
+| **Impact** | Increased precision by 35% and reduced resume optimization time by 60% |
 | **Repository** | [View Source](#) |
 
-*Professional Context:* Bridged complex NLP matching algorithms with robust web architecture to provide seamless side-by-side version comparison and data security[cite: 2].
+*Professional Context:* Bridged complex NLP matching algorithms with robust web architecture to provide seamless side-by-side version comparison and data security.
 </details>
 
 <details>
 <summary><b>✍️ BIT-Blog Platform</b></summary>
 <br>
-Engineered a comprehensive full-stack blogging platform with highly optimized RESTful endpoints and robust role-based access controls[cite: 2].
+Engineered a comprehensive full-stack blogging platform with highly optimized RESTful endpoints and robust role-based access controls.
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | React, Vite, Node.js, Express, MongoDB, Tailwind CSS, Redux[cite: 2] |
-| **Scale** | Supports 500+ indexed posts with streamlined state management[cite: 2] |
-| **Performance** | Initial page render under 200ms; full-text search responses <100ms[cite: 2] |
-| **Security** | Dual authentication (JWT & Firebase OAuth) and RBAC with Bcrypt.js[cite: 2] |
-| **Impact** | Secured 100% of admin endpoints and reduced API requests by 45%[cite: 2] |
+| **Stack** | React, Vite, Node.js, Express, MongoDB, Tailwind CSS, Redux |
+| **Scale** | Supports 500+ indexed posts with streamlined state management |
+| **Performance** | Initial page render under 200ms; full-text search responses <100ms |
+| **Security** | Dual authentication (JWT & Firebase OAuth) and RBAC with Bcrypt.js |
+| **Impact** | Secured 100% of admin endpoints and reduced API requests by 45% |
 | **Repository** | [View Source](#) |
 
-*Professional Context:* Focused on high-performance content delivery and stringent security measures across multiple user tiers, emphasizing core backend stability[cite: 2].
+*Professional Context:* Focused on high-performance content delivery and stringent security measures across multiple user tiers, emphasizing core backend stability.
 </details>
 
 <details>
 <summary><b>🛒 Scalable MERN E-Commerce Engine</b></summary>
 <br>
-Developed a robust MERN stack platform featuring modular backend architecture designed for high-volume traffic and complex order management[cite: 2].
+Developed a robust MERN stack platform featuring modular backend architecture designed for high-volume traffic and complex order management.
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | MongoDB, Express.js, React, Node.js[cite: 2] |
-| **Scale** | Catalog management for 1,000+ products; 500+ concurrent users[cite: 2] |
-| **Performance** | Database communication optimized to average response times of <200ms[cite: 2] |
-| **Security** | Secure JWT authentication embedded across 20+ RESTful API routes[cite: 2] |
-| **Impact** | Dynamic search algorithms decreased response time by 30%[cite: 2] |
+| **Stack** | MongoDB, Express.js, React, Node.js |
+| **Scale** | Catalog management for 1,000+ products; 500+ concurrent users |
+| **Performance** | Database communication optimized to average response times of <200ms |
+| **Security** | Secure JWT authentication embedded across 20+ RESTful API routes |
+| **Impact** | Dynamic search algorithms decreased response time by 30% |
 | **Repository** | [View Source](#) |
 
-*Professional Context:* Showcased the ability to design stress-tested backend systems capable of maintaining seamless user interaction efficiency under load[cite: 2].
+*Professional Context:* Showcased the ability to design stress-tested backend systems capable of maintaining seamless user interaction efficiency under load.
 </details>
 
 ---
 
 ## 💼 Professional Experience
 
-**Summer Intern** | *Bharat Coking Coal Limited (BCCL), Katras Area (Dhanbad, Jharkhand)*[cite: 2]
-*May 2026 – June 2026*[cite: 2]
-*   Analyzed operational documentation and maintenance records for over 50 heavy machinery units, identifying bottlenecks to streamline workflows and reduce reporting time by 15%[cite: 2].
-*   Managed root-cause analysis across hydraulic and transmission systems, decreasing recurring equipment failures by 20% through actionable process improvements[cite: 2].
-*   Optimized preventive breakdown protocols and resource allocation for Heavy Earth Moving Machinery (HEMM), maximizing operational uptime by an estimated 10%[cite: 2].
+**Summer Intern** | *Bharat Coking Coal Limited (BCCL), Katras Area (Dhanbad, Jharkhand)*
+*May 2026 – June 2026*
+*   Analyzed operational documentation and maintenance records for over 50 heavy machinery units, identifying bottlenecks to streamline workflows and reduce reporting time by 15%.
+*   Managed root-cause analysis across hydraulic and transmission systems, decreasing recurring equipment failures by 20% through actionable process improvements.
+*   Optimized preventive breakdown protocols and resource allocation for Heavy Earth Moving Machinery (HEMM), maximizing operational uptime by an estimated 10%.
 
-`Data Analysis` `Workflow Optimization` `Root-Cause Analysis` `Operations`[cite: 2]
+`Data Analysis` `Workflow Optimization` `Root-Cause Analysis` `Operations`
 
 ---
 
@@ -132,8 +132,8 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 
 | Recognition | Details |
 | :--- | :--- |
-| **Competitive Programming** | Achieved Pupil (1251) rating on Codeforces and successfully solved 200+ algorithms and data structures problems on LeetCode[cite: 2]. |
-| **Hackathon Excellence** | Advanced to the highly selective 3rd round of Flipkart GRiD 8.0, competing against a nationwide pool of over 1.67 Lakh students[cite: 2]. |
+| **Competitive Programming** | Achieved Pupil (1251) rating on Codeforces and successfully solved 200+ algorithms and data structures problems on LeetCode. |
+| **Hackathon Excellence** | Advanced to the highly selective 3rd round of Flipkart GRiD 8.0, competing against a nationwide pool of over 1.67 Lakh students. |
 
 </div>
 
@@ -154,8 +154,8 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 ## 💻 Coding Profiles
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems-9D4EDD?style=for-the-badge&logo=leetcode&logoColor=white" />[cite: 2]
-  <img src="https://img.shields.io/badge/Codeforces-Pupil_(1251)-7b2cbf?style=for-the-badge&logo=codeforces&logoColor=white" />[cite: 2]
+  <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems-9D4EDD?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Pupil_(1251)-7b2cbf?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/HackerRank-Pro-5a189a?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-Coder-c77dff?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </div>
