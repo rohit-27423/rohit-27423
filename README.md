@@ -142,10 +142,12 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-27423&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9D4EDD" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-27423&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=c77dff&currStreakNum=ffffff" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-27423&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff" width="50%" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-27423&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9D4EDD)](https://github.com/rohit-27423)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit-27423&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=c77dff&currStreakNum=ffffff)](https://github.com/rohit-27423)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-27423&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff)](https://github.com/rohit-27423)
+
 </div>
 
 ---
@@ -153,7 +155,9 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-27423&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rohit-27423&theme=dracula&no-frame=true&no-bg=true&margin-w=15)](https://github.com/rohit-27423)
+
 </div>
 
 ---
