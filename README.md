@@ -150,13 +150,6 @@ Developed a robust MERN stack platform featuring modular backend architecture de
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-27423&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
----
 
 ## 📈 Contribution Activity
 
